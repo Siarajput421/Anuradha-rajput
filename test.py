@@ -1,10 +1,10 @@
-#program on python)
-#a="hello world"
-#print(a)
+program on python)
+a="hello world"
+print(a)
 
-#(indexing)
-#a="hello world"
-#print=(a[2:5])
+(indexing)
+a="hello world"
+print=(a[2:5])
 
 #(concatenation)
 #x="hello"
