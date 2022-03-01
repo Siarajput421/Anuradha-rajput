@@ -1,11 +1,4 @@
-program on python)
-a="hello world"
-print(a)
-
-(indexing)
-a="hello world"
-print=(a[2:5])
-
+print("helloworld")
 #(concatenation)
 #x="hello"
 #y="world"
