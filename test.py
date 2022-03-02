@@ -1,9 +1,8 @@
 print("helloworld")
-#(concatenation)
-#x="hello"
-#y="world"
-#p=x+y
-#print(p)
+x="hello"
+y="world"
+p=x+y
+print(p)
 
 #(modification)
 #a="Anuradha"
